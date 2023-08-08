@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-m8ctUvalQo))
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-m8ctUvalQo)
 - Live Site URL: (https://forntend-mentor-product-preview-card.netlify.app/))
 
 ## My process
